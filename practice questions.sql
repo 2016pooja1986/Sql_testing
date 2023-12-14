@@ -1,0 +1,21 @@
+-- retrieve age and country of all customers
+-- select rows if age is less than 27
+-- select the age and country of customers whose age is less than or equal to 28
+-- select the countries of customers whose age is greater than 27
+-- select customers whose age is equal to 22
+-- select customers whose age is not equal to 22
+-- select rows if country is USA
+-- select rows if both the age > 23 and last_name = 'Doe' conditions are TRUE
+-- select rows if either of the conditions age > 23 or country = 'USA' is TRUE
+-- Select all the columns from the Products table for products whose quantity is not equal to 25 and price is greater than 160
+-- select rows if country is not UK
+-- select customers if age > 23 or country is both 'USA' and 'UK'
+-- find the minimum sale from order table
+--  find the maximum sale from order table
+-- find the product name with minimum sale
+-- find the product name with maximum sale
+-- write a query to find the no of students of class 10
+-- find the no of customer from country UK
+-- find the avg sale from the orders table and round off tha values upto 2 decimal points
+-- find the total sales from the orders table
+-- concat the first and last name of cutomers as full name from the customers table
